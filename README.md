@@ -4,9 +4,9 @@
 
 # Стек проекта:
 
-React 
-Bootstrap
-Webpack (create-react-app)
+```React```
+```Bootstrap```
+```Webpack (create-react-app)```
 
 # Для запука проекта используйте:
 
